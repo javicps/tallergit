@@ -1,0 +1,29 @@
+[user]
+        name = Javier Martínez
+        email = javier@frogtek.org
+[core]
+        autocrlf = false
+        safecrlf = true
+[alias]
+        co = checkout
+        ci = commit
+        st = status
+        br = branch
+        brancha = branch -a
+        us = "!f() { git checkout -b US$1 develop; }; f"
+        hist = log --graph --decorate --pretty=format:'%C(bold blue)<%an>%Creset %Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)' --abbrev-commit --date=relative
+        lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+        type = cat-file -t
+        dump = cat-file -p
+        s = status
+        st = stash
+        stl = stash list
+        stp = stash pop
+        unchange = update-index --assume-unchanged
+        unchanged = !git ls-files -v | grep ^[a-z]
+        diff = diff --color
+        lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+[color]  
+        ui = true
+        status = auto
+        branch = auto

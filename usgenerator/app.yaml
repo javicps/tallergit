@@ -1,0 +1,12 @@
+application: usgenerator
+version: 1
+runtime: python
+api_version: 1
+
+libraries:
+- name: django
+  version: 1.4
+
+handlers:
+- url: /.*
+  script: usgenerator.py

@@ -9,17 +9,18 @@ from objects import objects
 from environments import environments
 
 import random
-import logging
 
 
 class MainPage(webapp.RequestHandler):
 
     def get(self):
         self.response.headers['Content-Type'] = 'text/plain'
-        self.response.out.write('Como ' + self.get_subject() + ' quiero ' + self.get_verb() + ' ' + self.get_objects() + ' ' + self.get_environment())
+        self.response.out.write('Como ' + self.get_subject()
+                                + ' quiero ' + self.get_verb()
+                                + ' ' + self.get_objects()
+                                + ' ' + self.get_environment())
 
     def get_subject(self):
-        logging.info(subjects)
         return subjects[self.get_random(len(subjects)-1)]
 
     def get_verb(self):

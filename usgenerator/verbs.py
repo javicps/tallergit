@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 verbs = (u'modificar',
-<<<<<<< HEAD
          u'generar',
          u'validar',
          u'visualizar',

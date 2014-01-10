@@ -4,7 +4,7 @@ verbs = (u'modificar',
          u'generar',
          u'validar',
          u'visualizar',
-         u'destruir')
+         u'destruir',
          u'mejorar',
          u'ridiculizar',
          u'institucionalizar',

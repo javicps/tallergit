@@ -10,5 +10,6 @@ objects = (u'el flujo de navegación',
             u'mi usuario',
             u'las ranas',
             u'mi perfil',
+            u'mi sueldo',
             u'las uvas',
             u'la autenticación')

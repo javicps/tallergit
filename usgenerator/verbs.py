@@ -12,7 +12,8 @@ verbs = (u'modificar',
          u'ver',
          u'imprimir',
          u'enviar por correo',
-         u'mejorar',
          u'esperar',
          u'actualizar',
-         u'creer')
+         u'creer',
+         u'mejorar',
+         u'molar')

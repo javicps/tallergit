@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 verbs = (u'modificar',
+         u'generar',
+         u'validar',
+         u'visualizar',
+         u'destruir')
          u'mejorar',
          u'ridiculizar',
          u'institucionalizar',

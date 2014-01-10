@@ -14,5 +14,6 @@ subjects = (u'cliente',
 			u'superheroe',
 			u'pastelero',
 			u'alumno',
+			u'cipote',
             u'consultor')
 

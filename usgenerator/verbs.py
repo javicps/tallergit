@@ -14,5 +14,5 @@ verbs = (u'modificar',
          u'enviar por correo',
          u'mejorar',
          u'escuchar',
-         u'robar'
+         u'robar',
          u'crackear')

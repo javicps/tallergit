@@ -13,4 +13,5 @@ verbs = (u'modificar',
          u'imprimir',
          u'enviar por correo',
          u'mejorar'
-         u'molar')
+         u'molar'
+         u,'finiquitar')

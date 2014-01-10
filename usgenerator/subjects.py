@@ -10,4 +10,11 @@ subjects = (u'cliente',
 			u'paciente',
 			u'apu nahasapeemapetilon',
 			u'afilador',
+			u'elefante',
+			u'albañil',
+			u'coronel',
+			u'superheroe',
+			u'pastelero',
+			u'alumno',
             u'consultor')
+

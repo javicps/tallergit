@@ -4,4 +4,8 @@ verbs = (u'modificar',
          u'mejorar',
          u'ridiculizar',
          u'institucionalizar',
-         u'hackear')
+         u'hackear',
+         u'ver',
+         u'imprimir',
+         u'enviar por correo',
+         u'mejorar')

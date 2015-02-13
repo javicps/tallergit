@@ -9,4 +9,8 @@ verbs = (u'modificar',
 	 u'commitear',
 	 u'estropear',
 	 u'bailar'
-)
+         u'eliminar',
+         u'empeorar',
+         u'colocar',
+         u'aplicar',
+         u'mejorar')

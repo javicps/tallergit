@@ -13,4 +13,10 @@ verbs = (u'modificar',
          u'empeorar',
          u'colocar',
          u'aplicar',
-         u'mejorar')
+         u'mejorar',
+	 u'rapear',
+	 u'acomodar',
+	 u'bucear',
+	 u'dormir',
+	 u'programar',
+         u'trollear')

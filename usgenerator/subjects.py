@@ -10,4 +10,7 @@ subjects = (u'cliente',
 			u'señor con bigote',
 			u'multimillonario derrochador',
 			u'amante de git',
-            u'superhéroe mierder')
+            u'superhéroe mierder',
+			u'desconocido',
+			u'sombrerero loco',
+			u'primo de un colega')

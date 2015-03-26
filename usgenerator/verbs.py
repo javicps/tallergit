@@ -18,4 +18,5 @@ verbs = (u'modificar',
 	u'empeorar',
 	u'colocar',
 	u'aplicar',
+	u'rezar',
 	u'mejorar')

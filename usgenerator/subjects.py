@@ -21,4 +21,5 @@ subjects = (u'cliente',
             u'el puto amo',
             u'el Rey de España',
             u'polaco',
+            u'el genio de la lampara',
             u'master del universo')

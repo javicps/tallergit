@@ -7,14 +7,14 @@ subjects = (u'cliente',
             u'Tester',
             u'QA Manager',
             u'consultor',
-		u'señor con bigote',
-		u'multimillonario derrochador',
-		u'amante de git',
-            u'camarero',
+			u'multimillonario derrochador',
+			u'amante de git',
             u'superhéroe mierder',
-            u'tu madre',
-            u'tu padre',
-            u'El vecino',
-		u'desconocido',
-		u'sombrerero loco',
-		u'primo de un colega')
+			u'desconocido',
+			u'sombrerero loco',
+			u'primo de un colega'
+            u'compañero',
+                  u'tocapelotas'
+                  u'útil'
+                  u'inútil'
+                  u'polaco')

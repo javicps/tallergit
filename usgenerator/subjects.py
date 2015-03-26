@@ -13,4 +13,5 @@ subjects = (u'cliente',
             u'superhéroe mierder',
 			u'desconocido',
 			u'sombrerero loco',
-			u'primo de un colega')
+			u'primo de un colega'
+            u'master del universo')

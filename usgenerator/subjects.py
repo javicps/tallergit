@@ -19,4 +19,5 @@ subjects = (u'cliente',
   u'inútil'
   u'el puto amo'
   u'el Rey de España'
-  u'polaco')
+  u'polaco'
+  u'el genio de la lampara')

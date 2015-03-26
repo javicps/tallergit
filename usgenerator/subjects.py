@@ -14,9 +14,9 @@ subjects = (u'cliente',
   u'sombrerero loco',
   u'primo de un colega'
   u'compañero',
-  u'tocapelotas'
-  u'útil'
-  u'inútil'
-  u'el puto amo'
-  u'el Rey de España'
+  u'tocapelotas',
+  u'útil',
+  u'inútil',
+  u'el puto amo',
+  u'el Rey de España',
   u'polaco')

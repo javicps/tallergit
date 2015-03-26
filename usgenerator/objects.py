@@ -11,4 +11,5 @@ objects = (u'el flujo de navegación',
            u'la caché de usuario',
            u'los properties de configuración',
            u'el olor de las nubes',
+           u'los árboles del parque',
 )

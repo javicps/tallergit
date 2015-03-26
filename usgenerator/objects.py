@@ -8,4 +8,7 @@ objects = (u'el flujo de navegación',
            u'el clima en Toronto',
            u'todo',
            u'el código fuente'
-           )
+           u'la caché de usuario',
+           u'los properties de configuración',
+           u'el olor de las nubes',
+)
